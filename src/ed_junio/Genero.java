@@ -19,6 +19,8 @@ enum Genero {
   musical,
 
   romance,
+  
+  gore,
 
   cienciaFiccion;
 
